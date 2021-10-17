@@ -1,0 +1,6 @@
+torch==1.1.0
+torchvision==0.3.0
+numpy==1.14.5
+timm==0.1.16
+thop==0.0.31.post1910280903
+graphviz==0.13.2
